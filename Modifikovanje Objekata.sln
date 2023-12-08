@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifikovanje Objekata", "Modifikovanje Objekata.csproj", "{DA62C19B-B048-44F0-AE06-586DAEE856EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA62C19B-B048-44F0-AE06-586DAEE856EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA62C19B-B048-44F0-AE06-586DAEE856EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA62C19B-B048-44F0-AE06-586DAEE856EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA62C19B-B048-44F0-AE06-586DAEE856EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1466313C-DCE9-4EED-A64C-220DBBBC3D1B}
+	EndGlobalSection
+EndGlobal
